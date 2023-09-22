@@ -38,7 +38,9 @@ docker-compose up -d
 ```
 
 <hr>
+
 ## Levantar servidor
+
 #### Modo desarrollo
 
 ```bash
