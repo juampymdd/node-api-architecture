@@ -3,16 +3,25 @@
 
 ## Instalación
 
+#### Instalar pnpm
+> pnpm es un gestor de paquetes que funciona de manera similar a npm, pero con mejoras en cuanto a velocidad y espacio en disco.
+
+```bash
+npm install -g pnpm
+```
+
+#### Instalar dependencias
 ```bash
 pnpm install
 ```
 
 ## Configurar entorno
 
+#### Crear archivo .env
 ```bash
 cp .env.example .env
 ```
-## Setear variables de entorno
+#### Setear variables de entorno
 
 ```bash
 DB_PASSWORD=
@@ -41,4 +50,3 @@ pnpm dev
 ```bash
 pnpm start
 ```
-
