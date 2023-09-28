@@ -1,4 +1,4 @@
-import { Router } from "express";
+import  { Router } from "express";
 import AlumnoController from "./controlador.js";
 
 const router = Router();
